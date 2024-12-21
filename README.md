@@ -84,7 +84,7 @@ my_project/
 
 ```bash
 git clone https://github.com/javadmaaref/ShopMonitorBot.git
-cd my_project
+cd ShopMonitorBot
 ```
 
 ### 2. Install Dependencies
